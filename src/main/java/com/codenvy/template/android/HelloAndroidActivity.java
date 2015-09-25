@@ -1,3 +1,5 @@
+// swagelerator1
+
 package com.codenvy.template.android;
 
 import android.app.Activity;
